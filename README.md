@@ -96,6 +96,19 @@ python3 main.py --gt ../dataset/groundtruth --pr ../dataset/inferred
 
 This code has been compiled and tested on Ubuntu 22.04 LTS using Python 3.10.
 
+## Cite us
+
+```bibtex
+@misc{DANI,
+    title={{DANI}: Fast Diffusion Aware Network Inference with Preserving Topological Structure Property}, 
+    author={Maryam Ramezani and Aryan Ahadinia and Erfan Farhadi and Hamid R. Rabiee},
+    year={2023},
+    eprint={2310.01696},
+    archivePrefix={arXiv},
+    primaryClass={cs.SI}
+}
+```
+
 ## References
 
 We have used SNAP library and OSLOM2 to develop this method.
