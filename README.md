@@ -99,13 +99,15 @@ This code has been compiled and tested on Ubuntu 22.04 LTS using Python 3.10.
 ## Cite us
 
 ```bibtex
-@misc{DANI,
-    title={{DANI}: Fast Diffusion Aware Network Inference with Preserving Topological Structure Property}, 
-    author={Maryam Ramezani and Aryan Ahadinia and Erfan Farhadi and Hamid R. Rabiee},
-    year={2023},
-    eprint={2310.01696},
-    archivePrefix={arXiv},
-    primaryClass={cs.SI}
+@article{DANI,
+    title        = {{DANI}: fast diffusion aware network inference with preserving topological structure property},
+    author       = {Ramezani, Maryam and Ahadinia, Aryan and Farhadi, Erfan and Rabiee, Hamid R.},
+    journal      = {Scientific Reports},
+    volume       = {14},
+    pages        = {31053},
+    year         = {2024},
+    doi          = {10.1038/s41598-024-82286-X},
+    url          = {https://www.nature.com/articles/s41598-024-82286-x}
 }
 ```
 
