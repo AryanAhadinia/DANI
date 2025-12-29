@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "DANI: fast diffusion aware network inference with preserving topological structure property"
+type: article
+authors:
+  - family-names: "Ramezani"
+    given-names: "Maryam"
+  - family-names: "Ahadinia"
+    given-names: "Aryan"
+  - family-names: "Farhadi"
+    given-names: "Erfan"
+  - family-names: "Rabiee"
+    given-names: "Hamid R."
+journal: "Scientific Reports"
+volume: 14
+start: 31053
+year: 2024
+doi: "10.1038/s41598-024-82286-X"
+url: "https://www.nature.com/articles/s41598-024-82286-x"
